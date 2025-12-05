@@ -1,0 +1,5 @@
+{
+  "name": "MediCare Pro",
+  "description": "A comprehensive Healthcare Management System featuring patient records, appointment scheduling, medical history tracking, and role-based access control for medical professionals.",
+  "requestFramePermissions": []
+}
